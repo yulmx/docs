@@ -135,4 +135,13 @@ x=x+1;    模仿大多数微机汇编语言为例，产生的代码类似于
 
 
 
+命名
+
+函数命名，动宾结构还是宾动结构，如SendData或DataSend
+static 是否需要添加前缀下划线
+
+头文件、源文件最后预留一个空行
+
+typedef XXX XXX_t   _t表示是typedef结构
+
 
