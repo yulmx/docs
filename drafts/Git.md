@@ -2,35 +2,6 @@
 
 ## 分支branch
 
-设置默认的分支名称（git init）
-git config --global init.defaultBranch master
-
-修改分支名
-git branch -m <name>
-
-查看分支
-git branch
-git branch -a
-git branch -r
-查看本地分支和追踪分支
-git branch -vv
-*表示当前分支，白色表示本地分支，红色表示远程分支
-
-## 新建分支
-git branch -b <分支名>
-从远程分支拉取（3步：创建、切换、关联）
-git checkout -b <本地分支名> origin/<远程分支名>
-
-切换分支
-git branch <分支名>
-
-删除分支
-git branch -d <分支名>
-
-
-main/master
-trunk
-development
 
 
 Scalar
